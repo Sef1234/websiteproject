@@ -1,0 +1,96 @@
+
+h1 {
+    color:goldenrod;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2 {
+    color:black;
+    font-size: 30px;
+}
+
+h3 {
+    color:black;
+    font-size: 15px;
+}
+
+p{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+#large {
+    font-size: 75px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.content {
+    
+    background-color: rgb(0,0,0,0.15);
+    text-align: center;
+    border-style: inset;
+    border-width: 5px;
+}
+
+.title {
+
+    background-image: url("images/shutterstock_1318932224.jpg");
+}
+
+
+
+.center{
+    text-align: center;
+}
+
+.left{
+    text-align: left;
+} */
+
+
+
+.larger{
+    font-size: 35px;
+}
+
+.photo{
+    display:flex;
+    justify-content: center;
+}
+
+
+/* #bg {
+    position: fixed;
+    top: -50;
+    left: -50;
+    width: 200%;
+    height: 200%;
+
+}
+
+#bg img {
+    position:absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+} */
+
+
+
+
+/* html {
+    background: url(images/shutterstock_234269812.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-backgground-size: cover;
+    -0-background-size: cover;
+    background-size: cover;
+} */
+
